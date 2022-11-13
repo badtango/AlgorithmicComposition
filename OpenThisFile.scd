@@ -2,11 +2,11 @@
 
 // Above will load up the GUI on the right hand side of the screen. 
 
-// I apologise but you will have to change the file paths to the appropriate directorys in the following files:
+// I apologise but you will have to change the file paths to the appropriate directories in the following files:
 
 
-// All of the buffers in "mysynthdefs.rtf" (including the ATS buffer further down the page).
-// All of the loadPaths in "mygui.rtf".
+// All of the buffers in "SynthDefs.scd" (including the ATS buffer further down the page).
+// All of the loadPaths in "GUI.scd".
 // And obviously the above loadPath.
 
 
